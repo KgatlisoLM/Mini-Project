@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBV4YM8spEmpS1T/+/jEDa+HfHlhnHGzQN7O4pjFoQTouNw/MwbAgqbAuHxETxWE0KJCZxpRCr8Nb7sTFKsSnQ==",
+  "dgSpecHash": "LFXew2qNSUzIvNZFYaAkn4vMNmmadCdb1RAxQddI2WE/mLT4MwxbWTrxCiqZOsNye4O9IeEhFOBfZOWXk1QWCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kgatliso matema\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\kgatliso matema\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

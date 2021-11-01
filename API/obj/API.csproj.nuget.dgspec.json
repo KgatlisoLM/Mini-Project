@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\API.csproj": {}
+    "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\API.csproj": {
+    "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\API.csproj",
+        "projectPath": "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\API.csproj",
         "packagesPath": "C:\\Users\\kgatliso matema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kgatliso matema\\source\\repos\\Mini Project\\API\\obj\\",
+        "outputPath": "C:\\Users\\kgatliso matema\\source\\repos\\MINI PROJECT\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kgatliso matema\\AppData\\Roaming\\NuGet\\NuGet.Config",
