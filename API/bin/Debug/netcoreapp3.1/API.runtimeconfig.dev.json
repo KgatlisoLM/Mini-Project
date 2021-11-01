@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kgatliso matema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kgatliso matema\\.nuget\\packages"
+    ]
+  }
+}
